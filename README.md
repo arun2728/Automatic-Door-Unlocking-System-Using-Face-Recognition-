@@ -17,15 +17,21 @@
 
 #### New User Registeration
 
-![Admin Page](Photos_DoorUnlcok/'createimages.png')
+![Admin Page](Photos_DoorUnlcok/createimages.png)
 
-**Note : User need to entry his/her name and select create dataset if user doesnot exist then it will open a window to capture 300 images.**
+*Note : User need to enter his/her name and select create dataset if user doesnot exist then it will open a window to capture 300 images.*
 
 
 ![Admin Page](Photos_DoorUnlcok/get_images.png)
 
-#### Home Page
-![Home Page](Photos_DoorUnlcok/Home.png)
+#### Training the model
+*Note : captured images are stored in dataset/names_of_entered_user folder and once training is done it will pop-up a message*
 
-#### Admin Page
-![Admin Page](Photos_DoorUnlcok/Admin.png)
+![Home Page](Photos_DoorUnlcok/userregisterationpopup.png)
+
+#### Detecting the face on doorbell
+*When a person rings the doorbell a window will be popped to capture persons faces*
+![Home Page](Photos_DoorUnlcok/FaceDetection.png)
+
+*If it is matching with 50% confidenece then a door will be opened else remain closed*
+![Home Page](Photos_DoorUnlcok/FaceDetectednotification.png)
