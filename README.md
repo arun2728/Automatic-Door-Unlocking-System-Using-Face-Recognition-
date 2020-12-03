@@ -7,4 +7,25 @@
 ### Working of Application : 
 
 #### Home Page
-![Home Page](Home.png)
+![Home Page](Photos_DoorUnlcok/Home.png)
+
+#### Admin Page
+![Admin Page](Photos_DoorUnlcok/Admin.png)
+
+#### Existing Users
+![Home Page](Photos_DoorUnlcok/ExistingsUsers.png)
+
+#### New User Registeration
+
+![Admin Page](Photos_DoorUnlcok/'createimages.png')
+
+**Note : User need to entry his/her name and select create dataset if user doesnot exist then it will open a window to capture 300 images.**
+
+
+![Admin Page](Photos_DoorUnlcok/get_images.png)
+
+#### Home Page
+![Home Page](Photos_DoorUnlcok/Home.png)
+
+#### Admin Page
+![Admin Page](Photos_DoorUnlcok/Admin.png)
