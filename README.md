@@ -6,6 +6,4 @@
 
 ### Here are different phases of project : 
 
-* Home Page
-
-![Happy Christmas](Christmas.png)
+![Home Page](Home.png)
