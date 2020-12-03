@@ -31,7 +31,9 @@
 
 #### Detecting the face on doorbell
 *When a person rings the doorbell a window will be popped to capture persons faces*
+
 ![Home Page](Photos_DoorUnlcok/FaceDetection.png)
 
 *If it is matching with 50% confidenece then a door will be opened else remain closed*
+
 ![Home Page](Photos_DoorUnlcok/FaceDetectednotification.png)
